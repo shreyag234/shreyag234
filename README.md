@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyag234
-- 👀 I’m interested in FullStack development. 
+- 👀 I’m interested in Mobile development (Android & iOS). 
 - 🌱 I’m currently learning Android development in Kotlin and Java.
 - 📫 You can reach me through mail - ghantasalashreya43@gmail.com, LinkedIn - https://www.linkedin.com/in/shreyaghantasala04/ 
 
